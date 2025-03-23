@@ -45,3 +45,4 @@ Open it in Power BI Desktop.
 Explore the visuals, interact with filters, and view the insights!
 
 Feel free to contribute or provide feedback! 
+![Sales Analysis Dashboard](Images/Sales_Dashboard.png)
